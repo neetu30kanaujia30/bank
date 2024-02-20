@@ -5,7 +5,7 @@
     "title": "Neetu kanaujia test Api",
     "description": "Documentation"
   },
-  "host": "localhost:9002",
+  "host": "bank-mnn1.onrender.com",
   "basePath": "/",
   "tags": [
     {
