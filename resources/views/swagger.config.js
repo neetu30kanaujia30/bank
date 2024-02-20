@@ -4,7 +4,7 @@ import config from "config";
 const doc = {
   info: {
     version: "1.0", // by default: "1.0.0"
-    title: "Neetu kanaujia bank Api", // by default: "REST API"
+    title: "Neetu kanaujia bank Api", // by default: "bank REST API"
     description: "Documentation", // by default: ""
   },
   host: config.get("swagger_host_url"), // by default: "localhost:3000"
