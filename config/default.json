@@ -1,10 +1,10 @@
 {
-  "prod" : false,
+  "prod" : true,
   "user": {
     "username" : "neetu",
     "host_url": "0.0.0.0:9002",
     "port": "9002",
-    "host": "localhost:9002"
+    "host": "0.0.0.0:9002"
   },
   "mongo": {
     "username": "neetu30",
