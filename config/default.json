@@ -2,7 +2,7 @@
   "prod" : false,
   "user": {
     "username" : "neetu",
-    "host_url": "localhost:9002",
+    "host_url": "0.0.0.0:9002",
     "port": "9002",
     "host": "localhost:9002"
   },
