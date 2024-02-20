@@ -19,6 +19,6 @@
   "cards" : 50,
   "transactions" : 60
 },
-  "swagger_host_url": "localhost:9002",
+  "swagger_host_url": "bank-mnn1.onrender.com",
       "token_secret": "SAkjSOciObOard_7541"
 }
