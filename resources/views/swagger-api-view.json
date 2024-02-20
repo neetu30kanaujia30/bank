@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0",
-    "title": "Neetu kanaujia test Api",
+    "title": "Neetu kanaujia bank Api",
     "description": "Documentation"
   },
   "host": "bank-mnn1.onrender.com",
